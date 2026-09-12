@@ -1,1 +1,1 @@
-# UniChat
+/// <reference types="vite/client" />
